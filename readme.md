@@ -1,6 +1,8 @@
 # Wordle Clone in Rust
 
-A very simple Wordle clone that runs as a CLI.
+A very simple Wordle clone that runs as a CLI,
+
+`cargo run` to start, `cargo build` to build a binary.
 
 ## Generating a Wordlist
 
